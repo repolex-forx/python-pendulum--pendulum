@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-pendulum/pendulum/commit/e06dacedc4cdea90fa1286b3965d180ab94cf251",
       "git:hexsha": "e06dacedc4cdea90fa1286b3965d180ab94cf251",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "3.3.0"
     },
     {
